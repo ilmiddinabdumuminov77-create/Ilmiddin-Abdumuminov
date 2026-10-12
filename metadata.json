@@ -1,0 +1,6 @@
+{
+  "name": "Kafeavtomoyka – Avtomoyka va Kafe",
+  "description": "Farg‘onadagi premium Kafeavtomoyka: Avtomobilingiz yuvilayotgan paytda shinam kafeda dam oling, mazali taomlardan bahramand bo‘ling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
